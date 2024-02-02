@@ -23,9 +23,8 @@ To compile and deploy the contract, follow the same steps mentioned in the "Hell
 Once deployed, you can test the error-handling functions by calling `_require`, `_revert`, and `_assert` with different inputs.
 
 ## Authors
-
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Advik Rajesh Holalu
+advikholalu@gmail.com
 
 ## License
 
